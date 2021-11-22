@@ -1,2 +1,2 @@
 # ted
-Text editor written in c. (Shoutout to tsoding)
+Not finished text editor written in c. (Shoutout to tsoding)
